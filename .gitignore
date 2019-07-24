@@ -123,6 +123,6 @@ dmypy.json
 .pyre/
 
 # file
-GTM/data.xlsx
-GTM/output.txt
+program/data.xlsx
+program/output.txt
 program/pyinstall
