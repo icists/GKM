@@ -121,3 +121,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# file
+./KTM/data.xlsx
+./KTM/output.txt
