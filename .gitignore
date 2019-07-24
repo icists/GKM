@@ -123,5 +123,5 @@ dmypy.json
 .pyre/
 
 # file
-./KTM/data.xlsx
-./KTM/output.txt
+GTM/data.xlsx
+GTM/output.txt
