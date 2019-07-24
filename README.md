@@ -1,2 +1,1 @@
-# GKM
- graffiti kakaotalk text maker
+# Graffiti Kakaotalk text Maker
